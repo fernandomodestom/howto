@@ -1,0 +1,19 @@
+Antes da Instalação
+
+desativar firewall
+desativar networkmanager
+/etc/sysconfig/network
+/etc/syconfig/network-script/interface de rede - desativar o networkmanager
+/etc/resolv.conf
+/etc/hosts
+
+
+
+Verificar o video
+https://www.youtube.com/watch?v=HGEvYjaxZKo
+
+Procedimento antes do provisionamento
+rm /etc/krb5.conf
+ln -sf /usr/local/samba/private/krb5.conf /etc/krb5.conf?
+
+Provisionar conforme o video
